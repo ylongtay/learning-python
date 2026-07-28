@@ -42,7 +42,7 @@ Welcome to my Python learning repository! This project documents my daily progre
 ---
 
 ## 🗂️ Structure
-- `src/`: Core logic and exercises grouped by topic.
+- `src/`: Core logic, exercises and challenges grouped by topic.
 - `projects/`: Functional applications and capstones.
 - `daily_log/`: Journaling progress and takeaways.
 - `docs/`: In-depth notes and study materials.
@@ -53,4 +53,4 @@ Welcome to my Python learning repository! This project documents my daily progre
 ## 🌟 Acknowledgements
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart
 - [Kaggle Python Course](https://www.kaggle.com/learn/python)
-- [Python Crash Course] 3rd edition
+- [Python Crash Course 3rd edition](https://ehmatthes.github.io/pcc_3e/)
