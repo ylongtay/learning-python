@@ -1,4 +1,4 @@
-## Python Crash Course 3rd ed - Ex 3a
+## Python Crash Course 3rd ed - Ex 1
 
 # Ex 3-1. Names: Store the names of a few of your friends in a list called names
 names = ['calvin', 'zac', 'jr', 'faith', 'michelle', 'raf']
