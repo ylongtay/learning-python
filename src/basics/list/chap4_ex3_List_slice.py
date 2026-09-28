@@ -1,4 +1,4 @@
-# === Python Crash Course 3rd ed - Chapter 4 Exercise 2 ===
+# === Python Crash Course 3rd ed - Chapter 4 Exercise 3 ===
 
 # Ex 4-10: Slices: Using one created program in this chapter
 cubes = [value**3 for value in range(1, 11)]
